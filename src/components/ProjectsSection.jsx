@@ -8,7 +8,7 @@ const projects = [
       "A beautiful application to help tourists make travel plans using React and Tailwind.",
     image: "/projects/project1.png",
     tags: ["React", "TailwindCSS", "Supabase"],
-    demoUrl: "https://journneyplanner.netlify.app/",
+    demoUrl: "https://journneyplannerio.netlify.app/",
     githubUrl: "#",
   },
   {
