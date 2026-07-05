@@ -18,7 +18,7 @@ const projects = [
       "Interactive website full of many gym exercises and practices with visualized details and GIFs .",
     image: "/projects/project2.png",
     tags: ["TypeScript", "D3.js", "Next.js"],
-    demoUrl: "https://fascinating-sfogliatella-80733f.netlify.app/",
+    demoUrl: "https://golds-gym-topaz.vercel.app/",
     githubUrl: "#",
   },
   {
@@ -28,7 +28,7 @@ const projects = [
       "Everything you need to accept card payments and grow your business anywhere on the planet.",
     image: "/projects/project3.png",
     tags: ["React", "Node.js", "Stripe"],
-    demoUrl: "https://ornate-clafoutis-3aa351.netlify.app/",
+    demoUrl: "https://hoo-bank-ohqphmtbs-mazen14.vercel.app/",
     githubUrl: "#",
   },
 ];
